@@ -1,0 +1,13 @@
+/***********
+	COPY AND EXECUTE these all querys in MySQL database
+************/
+CREATE DATABASE storekeeper;
+
+USE storekeeper;
+
+CREATE TABLE  items (
+	id VARCHAR(10) PRIMARY KEY,
+	name VARCHAR(50) NOT NULL,
+	price INT NOT NULL,
+	instock INT NOT NULL
+)
