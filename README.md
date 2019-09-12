@@ -28,4 +28,4 @@ Now, you can lauch the application by browsing your path in url example(http://l
 
 ## License
 
-This project is licensed under the GNL License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNL License - see the [LICENSE.md](LICENSE) file for details
